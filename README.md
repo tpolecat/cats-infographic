@@ -2,4 +2,4 @@
 
 This is an OmniGraffle doc package with a diagram of the Cats typeclass hierarchy.
 
-The `.pdf` export is probably what you want.
+The `.pdf` export, suitable for framing or tattoo design, is probably what you want.
