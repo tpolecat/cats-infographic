@@ -1,6 +1,6 @@
 ## Cats Infographic
 
-This is an OmniGraffle 7 diagram of the Cats typeclass hierarchy.
+This is an OmniGraffle 7 diagram of the Cats typeclass hierarchy, shareable under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 The `.pdf` export, suitable for framing or tattoo design, is probably what you want.
 
