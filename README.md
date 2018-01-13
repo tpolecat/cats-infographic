@@ -1,4 +1,4 @@
-## Cats Infographic
+## Cats Infographic 1.0.1
 
 This is an OmniGraffle 7 diagram of the Cats typeclass hierarchy, shareable under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
