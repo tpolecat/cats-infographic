@@ -8,4 +8,4 @@ The `.pdf` export, suitable for framing or tattoo design, is probably what you w
 
 The `.svg` export below is embiggenable with a gentle click.
 
-![](https://cdn.rawgit.com/tpolecat/cats-infographic/master/cats.svg)
+![](https://cdn.rawgit.com/tpolecat/cats-infographic/master/cats.svg?x=1)
